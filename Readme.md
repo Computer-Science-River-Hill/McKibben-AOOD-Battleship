@@ -26,5 +26,5 @@ Your class should have the following items:
 * A toString method that takes no arguments, and returns a string containing the character for the row, followed by a hyphen (“-“) followed by the number for the column. I.e. B-9.
 * Private data fields for storing the row and column.
 # Testing
-* Test your class thoroughly. A testing class is created for you, create enough test cases that you are absolutely certian that there are no edge cases undiscovered, and that you have tested every possible way to interact with your class.
-* Demonstrate your project and tests to Mr. McKibben to recieve credit.
+* Test your class thoroughly. A testing class is created for you, create enough test cases that you are absolutely certain that there are no edge cases undiscovered, and that you have tested every possible way to interact with your class.
+* Demonstrate your project and tests to Mr. McKibben to receive credit.
