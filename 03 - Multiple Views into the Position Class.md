@@ -1,4 +1,4 @@
-# Project 1.3 Multiple Views into the Position Class
+# Project 1.3 Multiple Views into the Position Class 
 ## Objective:
 Students will implement multiple views into the data.
 
