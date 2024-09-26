@@ -2,6 +2,7 @@ plugins {
     id("java")
     application
     `java-library`
+     id("org.openjfx.javafxplugin") version "0.1.0"
 }
 
 group = "org.example"
@@ -28,4 +29,8 @@ tasks.withType<Jar> {
     manifest {
         attributes["Main-Class"] = "org.example.Main"
     }
+}
+javafx {
+    version = "22.0.1"
+    modules("javafx.controls", "javafx.fxml")
 }
